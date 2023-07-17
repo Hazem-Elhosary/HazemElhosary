@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hazemelhosary/static/css/main.c0ab4a4d.css",
+    "main.js": "/hazemelhosary/static/js/main.0315cfe1.js",
+    "static/media/profile.jpg": "/hazemelhosary/static/media/profile.b1549b7b0800d5be5fb0.jpg",
+    "static/media/About.jpg": "/hazemelhosary/static/media/About.8add0053bd033be7a627.jpg",
+    "static/media/CV.pdf": "/hazemelhosary/static/media/CV.9166baaaaf2d23a5dea9.pdf",
+    "static/media/testimonial3.png": "/hazemelhosary/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/hazemelhosary/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/hazemelhosary/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/hazemelhosary/index.html",
+    "main.c0ab4a4d.css.map": "/hazemelhosary/static/css/main.c0ab4a4d.css.map",
+    "main.0315cfe1.js.map": "/hazemelhosary/static/js/main.0315cfe1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0ab4a4d.css",
+    "static/js/main.0315cfe1.js"
+  ]
+}
